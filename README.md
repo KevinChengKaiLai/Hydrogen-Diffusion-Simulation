@@ -476,40 +476,13 @@ git push origin feature/amazing-feature
 
 ---
 
-## 📚 References
-
-This work builds upon established theory and methods in membrane transport:
-
-1. **Crank, J.** (1975). *The Mathematics of Diffusion*. Oxford University Press.
-2. **Satterfield, C.N.** (1970). *Mass Transfer in Heterogeneous Catalysis*. MIT Press.
-3. **Bird, R.B., Stewart, W.E., Lightfoot, E.N.** (2007). *Transport Phenomena*. Wiley.
-4. **Carmo, M., et al.** (2013). "A comprehensive review on PEM water electrolysis." *Int. J. Hydrogen Energy*, 38(12), 4901-4934.
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
-
-```
-MIT License
-
-Copyright (c) 2025 Cheng Kai Lai, Tejas Jairange, Neil Sinha
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction...
-```
-
----
-
 ## 👥 Authors
 
 **Carnegie Mellon University - Mathematical Modelling in Chemical Engineering**
 
 - **Cheng Kai Lai** - *Lead Developer*
-- **Tejas Jairange** - *Transient Analysis*
 - **Neil Sinha** - *Validation & Testing*
+- **Tejas Jairange** - *Transient Analysis*
 
 **Course**: 06-623 Mathematical Modelling in Chemical Engineering  
 **Institution**: Carnegie Mellon University  
@@ -517,31 +490,13 @@ in the Software without restriction...
 
 ---
 
-## 💬 Contact
-
-Have questions or suggestions? Reach out:
-
-- 📧 Email: [Contact via GitHub](https://github.com/KevinChengKaiLai)
-- 🐛 Issues: [GitHub Issues](https://github.com/KevinChengKaiLai/Hydrogen-Diffusion-Simulation/issues)
-- 💡 Discussions: [GitHub Discussions](https://github.com/KevinChengKaiLai/Hydrogen-Diffusion-Simulation/discussions)
-
----
-
 ## 🌟 Acknowledgments
 
 Special thanks to:
 - Carnegie Mellon University Department of Chemical Engineering
-- Course instructors for guidance on numerical methods
-- The open-source Python scientific computing community
+- Professor John Kitchin
+- Neil, my best partner
 - All contributors and users of this simulation framework
-
----
-
-## ⭐ Star History
-
-If you find this project useful, please consider giving it a star! It helps others discover this work.
-
-[![Star History Chart](https://api.star-history.com/svg?repos=KevinChengKaiLai/Hydrogen-Diffusion-Simulation&type=Date)](https://star-history.com/#KevinChengKaiLai/Hydrogen-Diffusion-Simulation&Date)
 
 ---
 
