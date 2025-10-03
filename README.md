@@ -6,10 +6,10 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![NumPy](https://img.shields.io/badge/NumPy-Powered-green.svg)
 ![SciPy](https://img.shields.io/badge/SciPy-Scientific-orange.svg)
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 ![Status](https://img.shields.io/badge/Status-Active-success.svg)
 
 *A computational framework for simulating hydrogen purification and storage in PEM electrolysers using finite difference methods*
+
 
 [Features](#-key-features) • [Installation](#-installation) • [Usage](#-usage) • [Theory](#-mathematical-foundation) • [Results](#-results) • [Contributing](#-contributing)
 
